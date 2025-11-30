@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yeshwanth369
-- 👀 I’m interested in Robotics,Iot
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Robotics,AI
+- 🌱 I’m currently working as a AI Engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yeshwanth963@gmail.com
 
